@@ -1,0 +1,11 @@
+streamlit>=1.46.0
+langgraph>=0.6.0
+langchain>=0.3.26
+langchain-core>=0.3.68
+langchain-groq>=0.3.5
+langsmith>=0.4.5
+python-dotenv>=1.1.0
+requests>=2.32.0
+typing_extensions>=4.14.0
+pydantic>=2.11.0
+langsmith>=0.4.5
